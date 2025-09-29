@@ -1,6 +1,7 @@
 
-https://github.com/user-attachments/assets/435d882a-54f0-4f3d-94ff-e6ecef01d424
+![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/228dad0e-4474-41c6-9381-c951741587b1)
 ## Difficulties
+
 The hardest part of this project for me was setting up Visual Studio and SDL3. I had never made a blank project before so I had no idea what header files were and how to link external libraries in Visual Studio. I spent a lot of time figuring this out with the help of this video. Once I had the starter code working in Visual Studio, the rest of the project went fairly smoothly. I think this was because most of the functions required for the project could be done using PGA, something I was very familiar with from homework 1. In fact, I was able to use multiple of the functions from my header file from homework 1. I had some trouble with figuring out how to compute the angle between the initial mouse click and the current mouse position. I knew how to find the magnitude of the angle between two lines with PGA, but I had to look up how to find the sign of the angle because with just the magnitude implemented, the square only rotated in one direction. The last difficulty I had was with learning what I had to include in the command line to compile the file as I had never used "-I", "-L", or "-l" before.
 
 ## Compiling the Project Locally
