@@ -1,3 +1,6 @@
+## Difficulties
+The hardest part of this project for me was setting up Visual Studio and SDL3. I had never made a blank project before so I had no idea what header files were and how to link external libraries in Visual Studio. I spent a lot of time figuring this out with the help of this video. Once I had the starter code working in Visual Studio, the rest of the project went fairly smoothly. I think this was because most of the functions required for the project could be done using PGA, something I was very familiar with from homework 1. In fact, I was able to use multiple of the functions from my header file from homework 1. I had some trouble with figuring out how to compute the angle between the initial mouse click and the current mouse position. With this I knew that the arcos of the magnitude of the meet of two lines (
+
 ## Compiling the Project Locally
 Here is a zip file with all files needed to compile my project on windows:
 [project1Graphics.zip](https://github.com/user-attachments/files/22585764/project1Graphics.zip)
