@@ -12,4 +12,7 @@ You want to change "C:\SDL\SDL3-3.2.22\include" and "C:\SDL\SDL3-3.2.22\lib\x64"
 ```
 g++ .\squareStarter.cpp .\glad\glad.c -I C:\*yourSDLfilepath*\SDL3-3.2.22\include -L C:\*yourSDLfilepath*\SDL3-3.2.22\lib\x64 -lSDL3 -o project1.exe
 ```
-This should compile a new executable "project1.exe", which can be run by typing the filename into the command line while in the project directory.
+This should compile a new executable "project1.exe".
+
+## Running the project/Extra Features
+While in the project directory, type "project1.exe" into the command line. Pressing "g" will change the texture of the square between the three textures given in the project starter code.
